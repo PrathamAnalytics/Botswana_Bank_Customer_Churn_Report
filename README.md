@@ -99,7 +99,7 @@ The dataset includes **115,640 customers** and consists of **34 columns** coveri
 ### *5. Engagement Score*  
 - Average = **5.60**. Higher scores align with **greater loyalty** and reduced churn.
 
-### *6. omplaint Rate by Tenure*  
+### *6. Complaint Rate by Tenure*  
 - Surprisingly similar:  
   - Loyal Customers = 5.00  
   - New Customers = 5.01  
