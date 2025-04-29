@@ -29,9 +29,10 @@ The dataset includes **115,640 customers** and consists of **34 columns** coveri
 # ***Technical Overview*** 
 
 *Tools Used*:  
-- **SQL** – For Exploratory Data Analysis (EDA)  
-- **Python** – For deeper statistical analysis  
-- **Power BI** – Used for dashboarding (not included in this documentation)  
+- **Excel** – For Data Cleaning and Structuring.
+- **SQL** – For Exploratory Data Analysis (EDA).  
+- **Python** – For deeper statistical analysis.  
+- **Power BI** – For Data Visualization. 
 
 *Libraries/Technologies*:  
 - `Pandas`, `NumPy` – Data manipulation  
@@ -115,44 +116,53 @@ The dataset includes **115,640 customers** and consists of **34 columns** coveri
 
 # ***Recommendations***
 
-### *Target Divorced & Low-Income Customers* 
-- **Strategy**: Launch loyalty programs and exclusive benefits for these groups.  
-- **Execution**: Financial wellness workshops, one-on-one advisory, customized offers.  
-- **Expected Outcome**: Higher emotional engagement and retention of vulnerable groups.
+## **1.Target Divorced and Low-Income Customers:**
 
+- **Recommendation**: Launch personalized loyalty programs for divorced and low-income customers.
 
-### *Enhance Service Quality*
-- **Strategy**: Focus on reducing service-related churn, a top driver.  
-- **Execution**: Train staff better, introduce 24/7 support, and monitor complaint turnaround.  
-- **Expected Outcome**: Lower churn, improved brand image, better satisfaction scores.
+- **Action Plan**: Create offers and programs tailored to these groups, such as financial wellness workshops or exclusive discounts. Use personalized communication channels like email or app notifications to engage these customers.
 
+- **Outcome**: By addressing their unique needs, churn can be reduced, improving retention and customer loyalty.
 
-### *Proactive Risk Management* 
-- **Strategy**: Offer financial counseling to high-risk groups.  
-- **Execution**: Credit repair programs, progress tracking dashboards, credit score simulators.  
-- **Expected Outcome**: Improved financial health and reduced churn risk.
+## 2. **Enhance Service Quality:**
 
+- **Recommendation**: Focus on reducing service issues, a top churn reason.
 
+- **Action Plan**: Improve customer service training, set clear SLAs for issue resolution, and gather customer feedback for continuous improvement. Monitor key metrics like response times and satisfaction.
 
-### *Optimize Communication Channels*
-- **Strategy**: Explore real-time, engaging channels like mobile app notifications.  
-- **Execution**: Push notifications, in-app chatbots, personalization via AI.  
-- **Expected Outcome**: Higher engagement, reduced missed messages, improved loyalty.
+- **Outcome**: A more efficient service will reduce churn, increase customer loyalty, and improve brand reputation.
 
+## 3. **Proactive Risk Management:**
 
+- **Recommendation**: Improve high-risk customers’ credit history through financial counseling.
 
-### *Streamline Complaint Handling*  
-- **Strategy**: Speed up resolution and track complaint severity.  
-- **Execution**: Ticket-based systems, empowered reps, satisfaction-based follow-ups.  
-- **Expected Outcome**: Stronger trust, lower frustration, fewer customer exits.
+- **Action Plan**: Identify high-risk customers and offer personalized financial advice to help them improve credit scores. Introduce tools to track progress and send timely reminders.
 
+- **Outcome**: Managing high-risk customers will prevent churn due to financial insecurity and build trust with at-risk segments.
 
+## 4. **Optimize Communication:**
 
-### *Focus on Retail Customers*  
-- **Strategy**: Monitor credit utilization and offer custom financial products.  
-- **Execution**: Alerts for credit spikes, bonus offers for usage control, cashback rewards.  
-- **Expected Outcome**: More loyalty, better financial outcomes, reduced churn.
+- **Recommendation**: Explore newer channels like App Notifications since churn rates are equal in Email and Phone.
 
+- **Action Plan**: Implement in-app notifications for real-time updates and personalized offers. Use push notifications to drive engagement and provide instant support through chatbots.
+
+- **Outcome**: By diversifying communication, customer engagement will increase, leading to a reduction in churn.
+
+## 5. **Complaint Handling Improvements:**
+
+- **Recommendation**: Implement a quick-response system to handle complaints effectively.
+
+- **Action Plan**: Prioritize complaints, empower reps to resolve issues quickly, and track resolution times. Use a digital platform for easy complaint submission and status tracking.
+
+- **Outcome**: Faster resolution of complaints will improve customer satisfaction and reduce churn.
+
+## 6. **Customer Segmentation Focus:**
+
+- **Recommendation**: Focus on Retail customers where high credit utilization and churn risk exist.
+
+- **Action Plan**: Tailor financial products and offers for retail customers, such as credit limit increases and cashback incentives. Monitor credit usage and offer advice when usage spikes.
+
+- **Outcome**: Targeted strategies for retail customers will lower churn and foster greater loyalty, leading to higher profitability.
 
 
 # ***Data Limitations*** 
